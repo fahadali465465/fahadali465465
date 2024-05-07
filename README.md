@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile App Development and Web Development
 - 🌱 I’m currently learning ML && DL
 - 💞️ I’m looking to collaborate on React Native React MongoDB FireBase
-- 📫 Contact: rajootfahad771@gmail.com
+- 📫 Contact: rajpootfahad771@gmail.com
 
 <!---
 fahadali465465/fahadali465465 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
